@@ -19,7 +19,7 @@ Arbitrarily, I decided to test this against the years 1995-2016, which gives a g
 
 
 
-![png](hof_voters_files/hof_voters_11_0.png)
+![png]({{ site.baseurl }}/hof_voters_files/hof_voters_11_0.png)
 
 
 As a matter of fact, this year saw one of the largest increases at 8.2%.  Taken alone, this may indicate that something has changed with the removal of so many voters, but when viewed with all the other years, it does not look very exceptional as the values range between -6 to +8%.  The average change is an increase by 2% per year, but with a standard deviation much larger than it of 4%.  *The average change in percentage is either highly random or driven by something other than change in the number of votes.*  In fact, the change in percentages does not show any strong correlation with the number of voters or the change in number of voters.  
