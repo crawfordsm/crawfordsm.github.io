@@ -19,7 +19,7 @@ Arbitrarily, I decided to test this against the years 1995-2016, which gives a g
 
 
 
-![_config.yml]({{ site.baseurl }}/images/hof_voters_11_0.png)
+![hof11]({{ site.baseurl }}/images/hof_voters_11_0.png)
 
 
 As a matter of fact, this year saw one of the largest increases at 8.2%.  Taken alone, this may indicate that something has changed with the removal of so many voters, but when viewed with all the other years, it does not look very exceptional as the values range between -6 to +8%.  The average change is an increase by 2% per year, but with a standard deviation much larger than it of 4%.  *The average change in percentage is either highly random or driven by something other than change in the number of votes.*  In fact, the change in percentages does not show any strong correlation with the number of voters or the change in number of voters.  
@@ -32,7 +32,7 @@ At initial glance, there is not much pattern to the data so pure randomness coul
 A very strong trend does appears between the average change in the percentage and the strength of an incoming class minus the number of hofs elected the year before.  Unsurprisingly, when a strong class comes onto the ballot, they tend to take votes away from other players. Likewise, when a large number of players are elected, they free up votes for other players.  A linear relationship of $$s = 0.0299*nhof_{previous} -0.0221\times Strength - 0.0034\times(Total-Strength) - 0.00299$$ gives a very good fit to  $\Delta p$ and shows a strong linear correlation indicated by an r-pearson statistic of 0.95.  
 
 
-![png]({{ site.baseurl }}/hof_voters_files/hof_voters_22_0.png)
+![hof22]({{ site.baseurl }}/images/hof_voters_22_0.png)
 
 
 ## Change in Voting Habits
@@ -45,7 +45,7 @@ Historically, players with higher vote percentage generally have seen their voti
 
 
 
-![png](hof_voters_files/hof_voters_28_0.png)
+![hof28]({{ site.baseurl }}/images/hof_voters_28_0.png)
 
 
 ### Have voters changed in terms of WAR or PEDs?
@@ -54,7 +54,7 @@ If we look at the corrected change in voting percentage as a function of WAR, th
 
 The green circles are players that have been a strongly association with PEDs.  Barry Bonds and Roger Clemons are exceptions, but the drop in the percentages for the other three players is in line for the drop for players with similar values of WAR.   Along with the average change in voting seen for Bonds and Clemons, it does not look like the behavior for players associated with PEDs is very different than other players.   
 
-![png](hof_voters_files/hof_voters_31_0.png)
+![hof31]({{ site.baseurl }}/images/hof_voters_31_0.png)
 
 ## Conclusions and other thoughts
 
