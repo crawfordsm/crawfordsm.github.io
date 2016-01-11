@@ -32,7 +32,7 @@ At initial glance, there is not much pattern to the data so pure randomness coul
 A very strong trend does appears between the average change in the percentage and the strength of an incoming class minus the number of hofs elected the year before.  Unsurprisingly, when a strong class comes onto the ballot, they tend to take votes away from other players. Likewise, when a large number of players are elected, they free up votes for other players.  A linear relationship of $$s = 0.0299*nhof_{previous} -0.0221\times Strength - 0.0034\times(Total-Strength) - 0.00299$$ gives a very good fit to  $\Delta p$ and shows a strong linear correlation indicated by an r-pearson statistic of 0.95.  
 
 
-![png](hof_voters_files/hof_voters_22_0.png)
+![png]({{ site.baseurl }}/hof_voters_files/hof_voters_22_0.png)
 
 
 ## Change in Voting Habits
