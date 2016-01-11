@@ -1,6 +1,8 @@
+---
+layout: post
+title:  Did the Hall of Fame voter purge make a difference?
+---
 
-
-# Did the Hall of Fame voter purge make a difference?
 
 In a recent Jayson Stark article and about [lessons in hall of fame voting](http://espn.go.com/mlb/story/_/id/14521041/five-things-learned-2016-hall-fame-election), he mentions the following three assumptions about the Baseball Hall of fame voters after a significant number of non-active voters were eliminated:
 
