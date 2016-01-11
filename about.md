@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+I am an astronomer currently working at the South Africa Astronomical Observatory primarily with the Southern African Large Telescope.   I have a wide range of research interests and like to dabble in a lot of different topics, but I focus primarily on galaxy evolution and observational cosmology.  
 
-A place to include any other types of information that you'd like to include about yourself.
+Nowadays, I mainly code in python, but I still use vi. 
+
+When not working, I spend my time running, playing Ultimate Frisbee, reading, and traveling.  
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[crawfordsm@gmail.com](mailto:crawfordsm@gmail.com)
