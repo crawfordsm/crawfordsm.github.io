@@ -72,3 +72,8 @@ The player with the worst performance though was Nomar Garciaparra with a drop i
 As a final aside, Jeff Bagwell, Curt Schilling, and Mike Mussina are the only players in the last 20 years with no known associated with PEDs and WAR > 75 to not be elected, so far,  to the hall of fame.   Along with Phil Neikro and Bert Blyleven (and exlcuding Roger Clemons and Barry Bonds), these five players are the only players with WAR > 75 and not be elected on their first ballot in the last twenty years, whereas 13 other players with WAR > 75 were elected on their first ballot.  
 
 
+### References
+
+[A Jupyter notebook](https://github.com/crawfordsm/crawfordsm.github.io/blob/hof/_posts/hof_voters_files/hof_voters.ipynb) is available with all the code associated with the calculations in this post. 
+
+This post used data download from [Baseball Reference](http://www.baseball-reference.com/).
