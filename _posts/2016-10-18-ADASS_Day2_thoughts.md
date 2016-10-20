@@ -3,7 +3,7 @@ layout: post
 title:  Thoughts and Opinions on ADASS XXVI Day 2
 ---
 
-_ These are a few random thoughts and opinions about my day.  As today, they are not even really about ADASS although being at ADASS along with recent events has focused a few of these thoughts. _
+_These are a few random thoughts and opinions about my day.  And today, they are not even really about ADASS although being at ADASS along with recent events has focused a few of these thoughts._
 
 Without a doubt and apologies to the great talks today, the best part
 of Day 2 of ADASS was the Low Latency Concert 'A Tribute to W. A.
