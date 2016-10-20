@@ -3,7 +3,7 @@ layout: post
 title:  Thoughts and Opinions on ADASS XXVI Day 2
 ---
 
-* These are a few random thoughts and opinions about my day.  As today, they are not even really about ADASS although being at ADASS along with recent events has focused a few of these thoughts. *
+_ These are a few random thoughts and opinions about my day.  As today, they are not even really about ADASS although being at ADASS along with recent events has focused a few of these thoughts. _
 
 Without a doubt and apologies to the great talks today, the best part
 of Day 2 of ADASS was the Low Latency Concert 'A Tribute to W. A.
@@ -11,7 +11,7 @@ Mozart' at the Tartini Conservatorio.   At the concert, an orchestra
 in Trieste was connected to a piano player in Ljiubljani via a low
 latency connection -- basically one of the best video/audio conference
 facilities in the world.   It was a great example of something that
-astronomer s talk about all the time:  how by-products developed in
+astronome's talk about all the time:  how by-products developed in
 research projects can have far greater benefits to society.   In this
 case, it is a network to allow musicians to play together at speeds
 and fidelity that the audience can not tell that they are in different
