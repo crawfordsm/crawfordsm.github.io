@@ -31,6 +31,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 * Rocky Gap State Park
 * Susquehanna State Park
+* Torrey C. Brown Rail Trail
+* Tuckahoe State Park
+
 
 
 
@@ -85,8 +88,6 @@ State parks that I have yet to visit:
 * St. Clement's Island State Park
 * St. Mary's River State Park
 * Swallow Falls State Park
-* Torrey C. Brown Rail Trail
-* Tuckahoe State Park
 * Washington Monument State Park
 * Western Maryland Rail Trail
 * Wolf Den Run State Park
