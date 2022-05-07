@@ -1,6 +1,14 @@
+---
+layout: post
+title: Hiking in Maryland
+---
+
 One of our favorite things is to go hiking with Tycho, and we have spent much of the last two years in different parks.  While we regularly go to the parks nearby to Blatimore, I realized that we still haven't been to many of the state parks around Maryland. So I thought I'd post a few of the places that we have been so I could track where we have or haven't been:
 
 * Assateague State Park
+
+![Three horses including a foal from Assateague state park]({{ site.baseurl }}/images/assateague_horses.jpg )
+
 * Gunpowder Falls State Park
 * Harriet Tubman Underground Railroad State Park
 * North Point State Park
