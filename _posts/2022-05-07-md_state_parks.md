@@ -21,6 +21,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 
 * Patapsco Valley State Park
+
+![Black dog sitting on the bank of Patapsco river]({{ site.baseurl }}/images/patapsco_tycho.jpg )
+
+
 * Rocks State Park
 
 ![Black dog on rocks in Rocks state park]({{ site.baseurl }}/images/rocks_tycho.jpg )
