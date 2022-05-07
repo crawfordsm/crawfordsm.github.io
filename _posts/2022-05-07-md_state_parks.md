@@ -10,8 +10,16 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Three horses including a foal from Assateague state park]({{ site.baseurl }}/images/assateague_horses.jpg )
 
 * Gunpowder Falls State Park
+
+![Black dog over looking a river with fallen leaves in Gun Powder Falls state park]({{ site.baseurl }}/images/gun_powder.jpg )
+
+
 * Harriet Tubman Underground Railroad State Park
 * North Point State Park
+
+![Black dog on the beach in North Point State Park]({{ site.baseurl }}/images/north_point.jpg )
+
+
 * Patapsco Valley State Park
 * Rocks State Park
 * Rocky Gap State Park
