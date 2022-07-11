@@ -30,6 +30,11 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Black dog on rocks in Rocks state park]({{ site.baseurl }}/images/rocks_tycho.jpg )
 
 * Rocky Gap State Park
+* Seneca Creek State Park
+
+![Clopper Lake with a large bird airing its wings]({{ site.baseurl }}/images/senaca_river.jpg )
+
+
 * Susquehanna State Park
 * Torrey C. Brown Rail Trail
 * Tuckahoe State Park
@@ -80,7 +85,6 @@ State parks that I have yet to visit:
 * Sandy Point State Park
 * Sang Run State Park
 * Sassafras Natural Resources Management Area
-* Seneca Creek State Park
 * Smallwood State Park
 * Soldier's Delight Natural Environment Area
 * South Mountain Battlefield
