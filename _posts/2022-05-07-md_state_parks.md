@@ -24,6 +24,8 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 ![Black dog sitting on the bank of Patapsco river]({{ site.baseurl }}/images/patapsco_tycho.jpg )
 
+* Patuxent River State Park
+![Black dog walking in a river in Patuxent River State Park]({{ site.baseurl }}/images/patuxent_tycho.jpg )
 
 * Rocks State Park
 
