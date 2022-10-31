@@ -12,6 +12,12 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Cedarville State Forest
 ![Black dog walking sitting by a sign for the Orange Trail in the Cedarville Forest State Park]({{ site.baseurl }}/images/cedarville_tycho.jpg )
 
+* Cunningham Falls State Park
+![Cunningham Falls State Park]({{ site.baseurl }}/images/cunningham.jpg)
+
+* Gambrill State Park
+![Gambrill State Park]({{ site.baseurl }}/images/gambrill.jpg)
+
 * Gunpowder Falls State Park
 
 ![Black dog over looking a river with fallen leaves in Gun Powder Falls state park]({{ site.baseurl }}/images/gun_powder.jpg )
@@ -35,14 +41,24 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Black dog on rocks in Rocks state park]({{ site.baseurl }}/images/rocks_tycho.jpg )
 
 * Rocky Gap State Park
+![Rocky Gap State Park]({{ site.baseurl }}/images/rocky_gap.jpg )
+
+
 * Seneca Creek State Park
 
 ![Clopper Lake with a large bird airing its wings]({{ site.baseurl }}/images/senaca_river.jpg )
 
+* South Mountain State Park
+![South Mountain State e Park]({{ site.baseurl }}/images/south_mountain.jpg)
+
 
 * Susquehanna State Park
+![Susgquenhanna State e Park]({{ site.baseurl }}/images/susquehanna.jpg)
+
 * Torrey C. Brown Rail Trail
+
 * Tuckahoe State Park
+![Tuckahoe State Park]({{ site.baseurl }}/images/tuckahoe.jpg)
 
 
 
@@ -54,10 +70,8 @@ State parks that I have yet to visit:
 * Bohemia River State Park
 * Calvert Cliffs State Park
 * Casselman River Bridge State Park
-* Cedarville State Forest
 * Chapel Point State Park
 * Chapman State Park
-* Cunningham Falls State Park
 * Dans Mountain State Park
 * Deep Creek Lake Natural Resource Management Area
 * Deep Creek Lake State Park
@@ -65,7 +79,6 @@ State parks that I have yet to visit:
 * Fair Hill Natural Resources Management Area
 * Fort Frederick State Park
 * Franklin Point State Park
-* Gambrill State Park
 * Gathland State Park
 * Greenbrier State Park
 * Greenwell State Park
@@ -92,7 +105,6 @@ State parks that I have yet to visit:
 * Smallwood State Park
 * Soldier's Delight Natural Environment Area
 * South Mountain Battlefield
-* South Mountain State Park
 * St. Clement's Island State Park
 * St. Mary's River State Park
 * Swallow Falls State Park
