@@ -9,6 +9,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 ![Three horses including a foal from Assateague state park]({{ site.baseurl }}/images/assateague_horses.jpg )
 
+* Cederville State Forest
+![Black dog walking sitting by a sign for the Orange Trail in the Cederville Forest State Park]({{ site.baseurl }}/images/cederville_tycho.jpg )
+
 * Gunpowder Falls State Park
 
 ![Black dog over looking a river with fallen leaves in Gun Powder Falls state park]({{ site.baseurl }}/images/gun_powder.jpg )
