@@ -9,8 +9,8 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 ![Three horses including a foal from Assateague state park]({{ site.baseurl }}/images/assateague_horses.jpg )
 
-* Cederville State Forest
-![Black dog walking sitting by a sign for the Orange Trail in the Cederville Forest State Park]({{ site.baseurl }}/images/cederville_tycho.jpg )
+* Cedarville State Forest
+![Black dog walking sitting by a sign for the Orange Trail in the Cedarville Forest State Park]({{ site.baseurl }}/images/cedarville_tycho.jpg )
 
 * Gunpowder Falls State Park
 
@@ -83,7 +83,6 @@ State parks that I have yet to visit:
 * Newtowne Neck State Park
 * North Point State Battlefield
 * Palmer State Park
-* Patuxent River State Park
 * Pocomoke River State Park
 * Point Lookout State Park
 * Rosaryville State Park
@@ -106,4 +105,4 @@ State parks that I have yet to visit:
 * Youghiogheny Wild River Natural Environmental Area
 
 
-Last Updated: 2022-02-14
+Last Updated: 2022-10-30
