@@ -1,3 +1,9 @@
+---
+layout: post
+title: Social Media
+---
+
+
 
 Why do I use social media? I started using Twitter because I discovered that people were tweeting from conferences. Working in South Africa at that time and the idea of virtual conferences was essentially non-existent, people tweeting from conferences made them far more accessible. I was able to see the highlights and discovery work that I should check out even if I wasn't able to be there or take part.  When I then went to a conference, I tweeted to share what I saw, but I also discovered it was a great way to connect with other people at the conference.  It was possible to have those hallway conversations while listening to a talk!
 
