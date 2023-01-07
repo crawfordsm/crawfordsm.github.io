@@ -18,6 +18,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Gambrill State Park
 ![Gambrill State Park]({{ site.baseurl }}/images/gambrill.jpg)
 
+* Gathland State Park
+![Gathland State Park]({{ site.baseurl }}/images/gathland_tycho.jpg)
+
+
 * Gunpowder Falls State Park
 
 ![Black dog over looking a river with fallen leaves in Gun Powder Falls state park]({{ site.baseurl }}/images/gun_powder.jpg )
@@ -51,6 +55,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * South Mountain State Park
 ![South Mountain State e Park]({{ site.baseurl }}/images/south_mountain.jpg)
 
+* Soldier's Delight Natural Environment Area
+![Soldiers Delight Natural Environment Area]({{ site.baseurl }}/images/soldier_tycho.jpg)
+
 
 * Susquehanna State Park
 ![Susgquenhanna State e Park]({{ site.baseurl }}/images/susquehanna.jpg)
@@ -79,7 +86,6 @@ State parks that I have yet to visit:
 * Fair Hill Natural Resources Management Area
 * Fort Frederick State Park
 * Franklin Point State Park
-* Gathland State Park
 * Greenbrier State Park
 * Greenwell State Park
 * Hallowing Point Waterfront Park​
@@ -103,7 +109,6 @@ State parks that I have yet to visit:
 * Sang Run State Park
 * Sassafras Natural Resources Management Area
 * Smallwood State Park
-* Soldier's Delight Natural Environment Area
 * South Mountain Battlefield
 * St. Clement's Island State Park
 * St. Mary's River State Park
