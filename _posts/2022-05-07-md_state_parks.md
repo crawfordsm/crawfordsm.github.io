@@ -9,6 +9,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 ![Three horses including a foal from Assateague state park]({{ site.baseurl }}/images/assateague_horses.jpg )
 
+* Calvert Cliffs State Park
+![Black dog infront of Calvert Cliffs near the bay]({{ site.baseurl }}/images/calvert_cliffs_tycho.jpg )
+
 * Cedarville State Forest
 ![Black dog walking sitting by a sign for the Orange Trail in the Cedarville Forest State Park]({{ site.baseurl }}/images/cedarville_tycho.jpg )
 
@@ -28,6 +31,12 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 
 * Harriet Tubman Underground Railroad State Park
+* Jefferson Patterson Park and Museum (Managed by Maryland Department of Planning)
+
+
+![field of grass with the bay in the background]({{ site.baseurl }}/images/jefferson_patterson.jpg )
+
+
 * North Point State Park
 
 ![Black dog on the beach in North Point State Park]({{ site.baseurl }}/images/north_point.jpg )
@@ -75,7 +84,6 @@ State parks that I have yet to visit:
 * Big Run State Park
 * Bill Burton Fishing Pier State Park
 * Bohemia River State Park
-* Calvert Cliffs State Park
 * Casselman River Bridge State Park
 * Chapel Point State Park
 * Chapman State Park
@@ -93,7 +101,6 @@ State parks that I have yet to visit:
 * Helen Avalynne Tawes Garden
 * Herrington Manor State Park
 * Janes Island State Park
-* Jefferson Patterson Park and Museum (Managed by Maryland Department of Planning)
 * Martinak State Park
 * Merkle Natural Resources Management Area
 * Monocacy Natural Resources Management Area
