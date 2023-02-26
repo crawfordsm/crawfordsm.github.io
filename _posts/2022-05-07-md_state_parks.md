@@ -41,6 +41,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 ![Black dog on the beach in North Point State Park]({{ site.baseurl }}/images/north_point.jpg )
 
+* Palmer State Park
+
+![Wooded grove with a stream flowing through rocks]({{ site.baseurl }}/images/palmer_stream.jpg )
+
 
 * Patapsco Valley State Park
 
@@ -108,7 +112,6 @@ State parks that I have yet to visit:
 * New Germany State Park
 * Newtowne Neck State Park
 * North Point State Battlefield
-* Palmer State Park
 * Pocomoke River State Park
 * Point Lookout State Park
 * Rosaryville State Park
