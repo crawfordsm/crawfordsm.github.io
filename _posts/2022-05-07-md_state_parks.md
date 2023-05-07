@@ -18,6 +18,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Cunningham Falls State Park
 ![Cunningham Falls State Park]({{ site.baseurl }}/images/cunningham.jpg)
 
+* Dans Mountain State Park
+![Dans Mountain State Park]({{ site.baseurl }}/images/dans_tycho.jpg)
+
 * Gambrill State Park
 ![Gambrill State Park]({{ site.baseurl }}/images/gambrill.jpg)
 
@@ -91,7 +94,6 @@ State parks that I have yet to visit:
 * Casselman River Bridge State Park
 * Chapel Point State Park
 * Chapman State Park
-* Dans Mountain State Park
 * Deep Creek Lake Natural Resource Management Area
 * Deep Creek Lake State Park
 * Elk Neck State Park
@@ -100,7 +102,7 @@ State parks that I have yet to visit:
 * Franklin Point State Park
 * Greenbrier State Park
 * Greenwell State Park
-* Hallowing Point Waterfront Park​
+* Hallowing Point Waterfront Park
 * Hart-Miller Island State Park
 * Helen Avalynne Tawes Garden
 * Herrington Manor State Park
