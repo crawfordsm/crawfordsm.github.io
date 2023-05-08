@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Beter Recipes
+title:  Better Recipes
 ---
 
 
