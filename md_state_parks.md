@@ -22,6 +22,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Dans Mountain State Park
 ![Dans Mountain State Park]({{ site.baseurl }}/images/dans_tycho.jpg)
 
+* Fair Hill Natural Resources Management Area
+![Standing in the river with a black dog in front of a covered bridge]({{ site.baseurl }}/images/fair_hills.jpg )
+
 * Gambrill State Park
 ![Gambrill State Park]({{ site.baseurl }}/images/gambrill.jpg)
 
@@ -30,14 +33,11 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 
 * Gunpowder Falls State Park
-
 ![Black dog over looking a river with fallen leaves in Gun Powder Falls state park]({{ site.baseurl }}/images/gun_powder.jpg )
 
 
 * Harriet Tubman Underground Railroad State Park
 * Jefferson Patterson Park and Museum (Managed by Maryland Department of Planning)
-
-
 ![field of grass with the bay in the background]({{ site.baseurl }}/images/jefferson_patterson.jpg )
 
 
@@ -98,7 +98,6 @@ State parks that I have yet to visit:
 * Deep Creek Lake Natural Resource Management Area
 * Deep Creek Lake State Park
 * Elk Neck State Park
-* Fair Hill Natural Resources Management Area
 * Fort Frederick State Park
 * Franklin Point State Park
 * Greenbrier State Park
