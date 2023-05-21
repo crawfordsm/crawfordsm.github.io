@@ -1,3 +1,9 @@
+---
+layout: post
+title: Remote Work
+---
+
+
 I've spent most of my professional career with some aspect of remote work. As a graduate student, I remotely observed for a good portion of my thesis. As a researcher in South Africa, most of my scientific collaborations were remote.  In my previous job, our teams were split across two buildings.  These were only a mile apart, but they may have well been in different states. 
 
 In my current job, I started during covid and I still spend the majority of my time talking to people not located in my office (70% of my meetings are with people not located in my office - either with people outside of NASA, at different centers, or remote workers.  This doesn't include the meetings that have to be remote because one or both of us are on travel to different locations, which has been significantly increasing in the last four months). When I look at the reality of my experiences over the past 15 years,  binary arguments on working conditions are not justified.  
