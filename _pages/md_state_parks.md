@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hiking in Maryland
-permalink: parks
+permalink: /parks/
 ---
 
 One of our favorite things is to go hiking with Tycho, and we have spent much of the last two years in different parks.  While we regularly go to the parks nearby to Blatimore, I realized that we still haven't been to many of the state parks around Maryland. So I thought I'd post a few of the places that we have been so I could track where we have or haven't been:
