@@ -99,7 +99,6 @@ State parks that I have yet to visit:
 * Bill Burton Fishing Pier State Park
 * Bohemia River State Park
 * Casselman River Bridge State Park
-* Chapman State Park
 * Deep Creek Lake Natural Resource Management Area
 * Deep Creek Lake State Park
 * Elk Neck State Park
