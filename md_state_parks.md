@@ -16,7 +16,7 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Cedarville State Forest
 ![Black dog walking sitting by a sign for the Orange Trail in the Cedarville Forest State Park]({{ site.baseurl }}/images/cedarville_tycho.jpg )
 
-* Chapel Point State Park
+* Chapman State Park
 ![Black dog shaking off while looking over a river]({{ site.baseurl }}/images/chapman_state_park.jpg)
 
 * Cunningham Falls State Park
@@ -99,6 +99,7 @@ State parks that I have yet to visit:
 * Bill Burton Fishing Pier State Park
 * Bohemia River State Park
 * Casselman River Bridge State Park
+* Chapel Point State Park
 * Deep Creek Lake Natural Resource Management Area
 * Deep Creek Lake State Park
 * Elk Neck State Park
