@@ -63,6 +63,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Patuxent River State Park
 ![Black dog walking in a river in Patuxent River State Park]({{ site.baseurl }}/images/patuxent_tycho.jpg )
 
+* Pocomoke River State Park
+![Black dog overlooking river in Pocomoke River State Park]({{ site.baseurl }}/images/pocomoke_tycho.jpg )
+
 * Rocks State Park
 
 ![Black dog on rocks in Rocks state park]({{ site.baseurl }}/images/rocks_tycho.jpg )
@@ -118,7 +121,6 @@ State parks that I have yet to visit:
 * New Germany State Park
 * Newtowne Neck State Park
 * North Point State Battlefield
-* Pocomoke River State Park
 * Point Lookout State Park
 * Rosaryville State Park
 * Sandy Point State Park
