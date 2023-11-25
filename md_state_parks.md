@@ -25,6 +25,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Dans Mountain State Park
 ![Dans Mountain State Park]({{ site.baseurl }}/images/dans_tycho.jpg)
 
+* Elk Neck State Park
+![Blck dog standing in front of a light house and USA flag]({{ site.baseurl }}/images/elk_tycho.jpg)
+
 * Fair Hill Natural Resources Management Area
 ![Standing in the river with a black dog in front of a covered bridge]({{ site.baseurl }}/images/fair_hills.jpg )
 
@@ -105,7 +108,6 @@ State parks that I have yet to visit:
 * Chapel Point State Park
 * Deep Creek Lake Natural Resource Management Area
 * Deep Creek Lake State Park
-* Elk Neck State Park
 * Fort Frederick State Park
 * Franklin Point State Park
 * Greenbrier State Park
