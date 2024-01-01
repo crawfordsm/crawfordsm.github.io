@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Year in Review: 2023
+title: Year in Review 2023
 ---
 
 I gave over 40 talks in 2023 - this included presentations, workshops, and panels.  These ranged from a workshop of only 4 people to a keynote to over 8000 people.  Not including the keynote, I likely talked to over 3600 people.  It was a busy year. 
