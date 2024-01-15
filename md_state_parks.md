@@ -97,6 +97,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Tuckahoe State Park]({{ site.baseurl }}/images/tuckahoe.jpg)
 
 
+* Wye Island State Natural Resources Management Area
+* Wye Oak State Park
+![Old brick house next to a tree with a fence around it]({{ site.baseurl }}/images/wye_oak.jpg)
+
 
 
 State parks that I have yet to visit:
@@ -137,8 +141,6 @@ State parks that I have yet to visit:
 * Western Maryland Rail Trail
 * Wolf Den Run State Park
 * Woodmont Natural Resources Management Area
-* Wye Island State Natural Resources Management Area
-* Wye Oak State Park
 * Youghiogheny Wild River Natural Environmental Area
 
 
