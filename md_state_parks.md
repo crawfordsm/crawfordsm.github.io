@@ -41,6 +41,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Gathland State Park
 ![Gathland State Park]({{ site.baseurl }}/images/gathland_tycho.jpg)
 
+* Greenbrier State Park
+![Black dog likcing his nose while standing next to a snow covered lack]({{ site.baseurl }}/images/greenbrier_tycho.jpg)
+
 
 * Gunpowder Falls State Park
 ![Black dog over looking a river with fallen leaves in Gun Powder Falls state park]({{ site.baseurl }}/images/gun_powder.jpg )
@@ -127,7 +130,6 @@ State parks that I have yet to visit:
 * Chapel Point State Park
 * Fort Frederick State Park
 * Franklin Point State Park
-* Greenbrier State Park
 * Greenwell State Park
 * Hallowing Point Waterfront Park
 * Hart-Miller Island State Park
