@@ -25,6 +25,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Dans Mountain State Park
 ![Dans Mountain State Park]({{ site.baseurl }}/images/dans_tycho.jpg)
 
+* Deep Creek Lake State Park / Deep Creek Lake Natural Resource Management Area
+![Black dog lying in Deep Creek Lake]({{ site.baseurl }}/images/deep_creek_tycho.jpg)
+
+
 * Elk Neck State Park
 ![Blck dog standing in front of a light house and USA flag]({{ site.baseurl }}/images/elk_tycho.jpg)
 
@@ -100,6 +104,8 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Susquehanna State Park
 ![Susgquenhanna State e Park]({{ site.baseurl }}/images/susquehanna.jpg)
 
+* Swallow Falls State Park
+
 * Torrey C. Brown Rail Trail
 
 * Tuckahoe State Park
@@ -119,8 +125,6 @@ State parks that I have yet to visit:
 * Bohemia River State Park
 * Casselman River Bridge State Park
 * Chapel Point State Park
-* Deep Creek Lake Natural Resource Management Area
-* Deep Creek Lake State Park
 * Fort Frederick State Park
 * Franklin Point State Park
 * Greenbrier State Park
@@ -143,7 +147,6 @@ State parks that I have yet to visit:
 * South Mountain Battlefield
 * St. Clement's Island State Park
 * St. Mary's River State Park
-* Swallow Falls State Park
 * Washington Monument State Park
 * Western Maryland Rail Trail
 * Wolf Den Run State Park
