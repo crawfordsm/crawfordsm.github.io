@@ -43,15 +43,24 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 
 * Harriet Tubman Underground Railroad State Park
+
+* Herrington Manor State Park
+![Black dog ond women sitting on bench overlooking a lake with a lake house on the far end]({{ site.baseurl }}/images/manor_hall.jpg )
+
+
+
+
 * Jefferson Patterson Park and Museum (Managed by Maryland Department of Planning)
 ![field of grass with the bay in the background]({{ site.baseurl }}/images/jefferson_patterson.jpg )
 
 * Morgan Run Natural Environment Area
 ![Black dog in the middle of a stream]({{ site.baseurl }}/images/morgan_state_park_tycho.jpg)
 
+* New Germany State Park
+![Black dog in the middle of a stream]({{ site.baseurl }}/images/new_germany_tycho.jpg)
+
 
 * North Point State Park
-
 ![Black dog on the beach in North Point State Park]({{ site.baseurl }}/images/north_point.jpg )
 
 * Palmer State Park
@@ -119,12 +128,10 @@ State parks that I have yet to visit:
 * Hallowing Point Waterfront Park
 * Hart-Miller Island State Park
 * Helen Avalynne Tawes Garden
-* Herrington Manor State Park
 * Janes Island State Park
 * Martinak State Park
 * Merkle Natural Resources Management Area
 * Monocacy Natural Resources Management Area
-* New Germany State Park
 * Newtowne Neck State Park
 * North Point State Battlefield
 * Point Lookout State Park
