@@ -7,7 +7,6 @@ permalink: /parks/
 One of our favorite things is to go hiking with Tycho, and we have spent much of the last two years in different parks.  While we regularly go to the parks nearby to Blatimore, I realized that we still haven't been to many of the state parks around Maryland. So I thought I'd post a few of the places that we have been so I could track where we have or haven't been:
 
 * Assateague State Park
-
 ![Three horses including a foal from Assateague state park]({{ site.baseurl }}/images/assateague_horses.jpg )
 
 * Calvert Cliffs State Park
@@ -48,14 +47,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Gunpowder Falls State Park
 ![Black dog over looking a river with fallen leaves in Gun Powder Falls state park]({{ site.baseurl }}/images/gun_powder.jpg )
 
-
 * Harriet Tubman Underground Railroad State Park
 
 * Herrington Manor State Park
 ![Black dog ond women sitting on bench overlooking a lake with a lake house on the far end]({{ site.baseurl }}/images/manor_hall.jpg )
-
-
-
 
 * Jefferson Patterson Park and Museum (Managed by Maryland Department of Planning)
 ![field of grass with the bay in the background]({{ site.baseurl }}/images/jefferson_patterson.jpg )
@@ -71,12 +66,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Black dog on the beach in North Point State Park]({{ site.baseurl }}/images/north_point.jpg )
 
 * Palmer State Park
-
 ![Wooded grove with a stream flowing through rocks]({{ site.baseurl }}/images/palmer_stream.jpg )
 
 
 * Patapsco Valley State Park
-
 ![Black dog sitting on the bank of Patapsco river]({{ site.baseurl }}/images/patapsco_tycho.jpg )
 
 * Patuxent River State Park
@@ -86,7 +79,6 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Black dog overlooking river in Pocomoke River State Park]({{ site.baseurl }}/images/pocomoke_tycho.jpg )
 
 * Rocks State Park
-
 ![Black dog on rocks in Rocks state park]({{ site.baseurl }}/images/rocks_tycho.jpg )
 
 * Rocky Gap State Park
@@ -94,7 +86,6 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 
 * Seneca Creek State Park
-
 ![Clopper Lake with a large bird airing its wings]({{ site.baseurl }}/images/senaca_river.jpg )
 
 * South Mountain State Park
@@ -115,8 +106,7 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Tuckahoe State Park]({{ site.baseurl }}/images/tuckahoe.jpg)
 
 
-* Wye Island State Natural Resources Management Area
-* Wye Oak State Park
+* Wye Island State Natural Resources Management Area / Wye Oak State Park
 ![Old brick house next to a tree with a fence around it]({{ site.baseurl }}/images/wye_oak.jpg)
 
 
@@ -156,4 +146,4 @@ State parks that I have yet to visit:
 * Youghiogheny Wild River Natural Environmental Area
 
 
-Last Updated: 2023-05-21
+Last Updated: 2024-05-25
