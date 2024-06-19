@@ -84,6 +84,8 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Rocky Gap State Park
 ![Rocky Gap State Park]({{ site.baseurl }}/images/rocky_gap.jpg )
 
+* Sang Run State Park
+![Black dog standing next to a black bear skin lying on a table]({{ site.baseurl }}/images/sang_run_tycho.jpg )
 
 * Seneca Creek State Park
 ![Clopper Lake with a large bird airing its wings]({{ site.baseurl }}/images/senaca_river.jpg )
@@ -105,9 +107,14 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Tuckahoe State Park
 ![Tuckahoe State Park]({{ site.baseurl }}/images/tuckahoe.jpg)
 
+* Wolf Den Run State Park
+![Black dog lying in a river with boulders]({{ site.baseurl }}/images/wolf_den_tycho.jpg) 
 
 * Wye Island State Natural Resources Management Area / Wye Oak State Park
 ![Old brick house next to a tree with a fence around it]({{ site.baseurl }}/images/wye_oak.jpg)
+
+* Youghiogheny Wild River Natural Environmental Area
+![Black dog standing on a bench overlooking a river]({{ site.baseurl }}/images/youghiogheny_tycho.jpg) 
 
 
 
@@ -133,7 +140,6 @@ State parks that I have yet to visit:
 * Point Lookout State Park
 * Rosaryville State Park
 * Sandy Point State Park
-* Sang Run State Park
 * Sassafras Natural Resources Management Area
 * Smallwood State Park
 * South Mountain Battlefield
@@ -141,9 +147,7 @@ State parks that I have yet to visit:
 * St. Mary's River State Park
 * Washington Monument State Park
 * Western Maryland Rail Trail
-* Wolf Den Run State Park
 * Woodmont Natural Resources Management Area
-* Youghiogheny Wild River Natural Environmental Area
 
 
 Last Updated: 2024-05-25
