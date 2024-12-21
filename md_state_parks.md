@@ -104,14 +104,19 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 
 * Susquehanna State Park
-![Susgquenhanna State e Park]({{ site.baseurl }}/images/susquehanna.jpg)
+![Susgquenhanna State  Park]({{ site.baseurl }}/images/susquehanna.jpg)
 
 * Swallow Falls State Park
+![Swallow Falls]({{ site.baseurl }}/images/swallow_falls.jpg)
+
 
 * Torrey C. Brown Rail Trail
 
 * Tuckahoe State Park
 ![Tuckahoe State Park]({{ site.baseurl }}/images/tuckahoe.jpg)
+
+* Western Maryland Rail Trail
+![Dog standing on bring with rusted colored iron supports and railing]({{ site.baseurl }}/images/wmrt_tycho.jpg)
 
 * Wolf Den Run State Park
 ![Black dog lying in a river with boulders]({{ site.baseurl }}/images/wolf_den_tycho.jpg) 
@@ -150,7 +155,6 @@ State parks that I have yet to visit:
 * St. Clement's Island State Park
 * St. Mary's River State Park
 * Washington Monument State Park
-* Western Maryland Rail Trail
 * Woodmont Natural Resources Management Area
 
 
