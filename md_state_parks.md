@@ -34,6 +34,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Fair Hill Natural Resources Management Area
 ![Standing in the river with a black dog in front of a covered bridge]({{ site.baseurl }}/images/fair_hills.jpg )
 
+* Franklin Point State Park
+![Dog standing on a rainbow colored bench in an abandoned shed]({{ site.baseurl }}/images/franklin_tycho.jpg )
+
 * Gambrill State Park
 ![Gambrill State Park]({{ site.baseurl }}/images/gambrill.jpg)
 
@@ -84,6 +87,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Rocky Gap State Park
 ![Rocky Gap State Park]({{ site.baseurl }}/images/rocky_gap.jpg )
 
+* Sandy Point State Park
+![Black dog standing in fron of the Bay Bridge on a beach]({{ site.baseurl }}/images/sandypoint_tycho.jpg )
+
 * Sang Run State Park
 ![Black dog standing next to a black bear skin lying on a table]({{ site.baseurl }}/images/sang_run_tycho.jpg )
 
@@ -126,7 +132,6 @@ State parks that I have yet to visit:
 * Casselman River Bridge State Park
 * Chapel Point State Park
 * Fort Frederick State Park
-* Franklin Point State Park
 * Greenwell State Park
 * Hallowing Point Waterfront Park
 * Hart-Miller Island State Park
@@ -139,7 +144,6 @@ State parks that I have yet to visit:
 * North Point State Battlefield
 * Point Lookout State Park
 * Rosaryville State Park
-* Sandy Point State Park
 * Sassafras Natural Resources Management Area
 * Smallwood State Park
 * South Mountain Battlefield
