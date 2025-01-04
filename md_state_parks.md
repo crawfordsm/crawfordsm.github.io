@@ -96,12 +96,14 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Seneca Creek State Park
 ![Clopper Lake with a large bird airing its wings]({{ site.baseurl }}/images/senaca_river.jpg )
 
-* South Mountain State Park
-![South Mountain State e Park]({{ site.baseurl }}/images/south_mountain.jpg)
-
 * Soldier's Delight Natural Environment Area
 ![Soldiers Delight Natural Environment Area]({{ site.baseurl }}/images/soldier_tycho.jpg)
 
+* South Mountain State Park
+![South Mountain State Park]({{ site.baseurl }}/images/south_mountain.jpg)
+
+* South Mountain Battlefield
+![South Mountain Battlefield with dog]({{ site.baseurl }}/images/south_mountain_tycho.jpg)
 
 * Susquehanna State Park
 ![Susgquenhanna State  Park]({{ site.baseurl }}/images/susquehanna.jpg)
@@ -114,6 +116,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 * Tuckahoe State Park
 ![Tuckahoe State Park]({{ site.baseurl }}/images/tuckahoe.jpg)
+
+* Washington Monument State Park
+![Washington monument with dog]({{ site.baseurl }}/images/washington_tycho.jpg)
 
 * Western Maryland Rail Trail
 ![Dog standing on bring with rusted colored iron supports and railing]({{ site.baseurl }}/images/wmrt_tycho.jpg)
@@ -151,10 +156,8 @@ State parks that I have yet to visit:
 * Rosaryville State Park
 * Sassafras Natural Resources Management Area
 * Smallwood State Park
-* South Mountain Battlefield
 * St. Clement's Island State Park
 * St. Mary's River State Park
-* Washington Monument State Park
 * Woodmont Natural Resources Management Area
 
 
