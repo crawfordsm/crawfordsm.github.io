@@ -44,7 +44,7 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 ![Gathland State Park]({{ site.baseurl }}/images/gathland_tycho.jpg)
 
 * Greenbrier State Park
-![Black dog likcing his nose while standing next to a snow covered lack]({{ site.baseurl }}/images/greenbrier_tycho.jpg)
+![Black dog likcing his nose while standing next to a snow covered lake]({{ site.baseurl }}/images/greenbrier_tyhco.jpg)
 
 
 * Gunpowder Falls State Park
