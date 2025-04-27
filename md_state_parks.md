@@ -68,9 +68,12 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * New Germany State Park
 ![Black dog in the middle of a stream]({{ site.baseurl }}/images/new_germany_tycho.jpg)
 
+* North Point State Battlefield
+![Black dog in front of a wooden fence ]({{ site.baseurl }}/images/north_point_battlefield.jpg )
 
 * North Point State Park
 ![Black dog on the beach in North Point State Park]({{ site.baseurl }}/images/north_point.jpg )
+
 
 * Palmer State Park
 ![Wooded grove with a stream flowing through rocks]({{ site.baseurl }}/images/palmer_stream.jpg )
@@ -157,7 +160,6 @@ State parks that I have yet to visit:
 * Merkle Natural Resources Management Area
 * Monocacy Natural Resources Management Area
 * Newtowne Neck State Park
-* North Point State Battlefield
 * Point Lookout State Park
 * Rosaryville State Park
 * Sassafras Natural Resources Management Area
