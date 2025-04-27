@@ -15,6 +15,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Cedarville State Forest
 ![Black dog walking sitting by a sign for the Orange Trail in the Cedarville Forest State Park]({{ site.baseurl }}/images/cedarville_tycho.jpg )
 
+* Chapel Point State Park
+![Black dog looking over an inlet]({{ site.baseurl }}/images/chapel_hill_tycho.jpg)
+
+
 * Chapman State Park
 ![Black dog shaking off while looking over a river]({{ site.baseurl }}/images/chapman_state_park.jpg)
 
@@ -93,6 +97,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Sang Run State Park
 ![Black dog standing next to a black bear skin lying on a table]({{ site.baseurl }}/images/sang_run_tycho.jpg )
 
+* Smallwood State Park
+![Black dog standing in front of brick house]({{ site.baseurl }}/images/smallwood_tycho.jpg )
+
 * Seneca Creek State Park
 ![Clopper Lake with a large bird airing its wings]({{ site.baseurl }}/images/senaca_river.jpg )
 
@@ -140,7 +147,6 @@ State parks that I have yet to visit:
 * Bill Burton Fishing Pier State Park
 * Bohemia River State Park
 * Casselman River Bridge State Park
-* Chapel Point State Park
 * Fort Frederick State Park
 * Greenwell State Park
 * Hallowing Point Waterfront Park
@@ -155,7 +161,6 @@ State parks that I have yet to visit:
 * Point Lookout State Park
 * Rosaryville State Park
 * Sassafras Natural Resources Management Area
-* Smallwood State Park
 * St. Clement's Island State Park
 * St. Mary's River State Park
 * Woodmont Natural Resources Management Area
