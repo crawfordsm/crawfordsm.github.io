@@ -9,6 +9,9 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Assateague State Park
 ![Three horses including a foal from Assateague state park]({{ site.baseurl }}/images/assateague_horses.jpg )
 
+* Bohemia River State Park
+![A black dog is in the foreground hiking down the middle of a grassy trail in the middle of a meadow. ]({{ site.baseurl }}/images/bohemia_tycho.jpg )
+
 * Calvert Cliffs State Park
 ![Black dog infront of Calvert Cliffs near the bay]({{ site.baseurl }}/images/calvert_cliffs_tycho.jpg )
 
@@ -61,6 +64,10 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 
 * Jefferson Patterson Park and Museum (Managed by Maryland Department of Planning)
 ![field of grass with the bay in the background]({{ site.baseurl }}/images/jefferson_patterson.jpg )
+
+* Martinak State Park
+![black dog in front of river with fall leaves on bushes]({{ site.baseurl }}/images/martinak_tycho.jpg )
+
 
 * Morgan Run Natural Environment Area
 ![Black dog in the middle of a stream]({{ site.baseurl }}/images/morgan_state_park_tycho.jpg)
@@ -148,7 +155,6 @@ State parks that I have yet to visit:
  
 * Big Run State Park
 * Bill Burton Fishing Pier State Park
-* Bohemia River State Park
 * Casselman River Bridge State Park
 * Fort Frederick State Park
 * Greenwell State Park
@@ -156,7 +162,6 @@ State parks that I have yet to visit:
 * Hart-Miller Island State Park
 * Helen Avalynne Tawes Garden
 * Janes Island State Park
-* Martinak State Park
 * Merkle Natural Resources Management Area
 * Monocacy Natural Resources Management Area
 * Newtowne Neck State Park
@@ -168,4 +173,4 @@ State parks that I have yet to visit:
 * Woodmont Natural Resources Management Area
 
 
-Last Updated: 2025-04-27
+Last Updated: 2025-10-27
