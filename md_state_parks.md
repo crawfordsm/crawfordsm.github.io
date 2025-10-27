@@ -95,11 +95,17 @@ One of our favorite things is to go hiking with Tycho, and we have spent much of
 * Pocomoke River State Park
 ![Black dog overlooking river in Pocomoke River State Park]({{ site.baseurl }}/images/pocomoke_tycho.jpg )
 
+* Point Lookout State Park
+![Black dog standing on rocks next to a river with a lighthouse in the distance]({{ site.baseurl }}/images/point_tycho.jpg )
+
 * Rocks State Park
 ![Black dog on rocks in Rocks state park]({{ site.baseurl }}/images/rocks_tycho.jpg )
 
 * Rocky Gap State Park
 ![Rocky Gap State Park]({{ site.baseurl }}/images/rocky_gap.jpg )
+
+* St. Mary's River State Park
+![Black down along the shores of a lake with green bushes]({{ site.baseurl }}/images/marys_tycho.jpg )
 
 * Sandy Point State Park
 ![Black dog standing in fron of the Bay Bridge on a beach]({{ site.baseurl }}/images/sandypoint_tycho.jpg )
@@ -165,11 +171,9 @@ State parks that I have yet to visit:
 * Merkle Natural Resources Management Area
 * Monocacy Natural Resources Management Area
 * Newtowne Neck State Park
-* Point Lookout State Park
 * Rosaryville State Park
 * Sassafras Natural Resources Management Area
 * St. Clement's Island State Park
-* St. Mary's River State Park
 * Woodmont Natural Resources Management Area
 
 
